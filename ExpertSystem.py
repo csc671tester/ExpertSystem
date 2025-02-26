@@ -113,7 +113,7 @@ add_job("Project Manager", ['3 Years Managing Software Projects', '2 years in Ag
 add_job("Senior Knowledge Engineer", ['3 years using Python to develop Expert Systems', '2 years data architecture and development'], [], 'Masters in CS')
 
 # Streamlit UI
-st.title("Job Qualification System")
+st.title("Job Qualification Expert System")
 
 name = st.text_input("Candidate Name")
 
